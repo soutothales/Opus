@@ -24,6 +24,15 @@ Opus uses the following libraries, languages, technologies, and frameworks:
 
 <br>
 
+## Run it locally
+
+Put your secret and key in `opus_server.js` . Then: 
+
+```
+npm install 
+node run opus_server.js	
+```
+
 # How To Use Opus
 
 ## Artist Selection
