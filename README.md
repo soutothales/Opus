@@ -30,7 +30,7 @@ Put your secret and key in `opus_server.js` . Then:
 
 ```
 npm install 
-node run opus_server.js	
+node opus_server.js	
 ```
 
 # How To Use Opus
